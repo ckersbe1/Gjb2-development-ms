@@ -39,10 +39,13 @@ function [figh, h, p] = compare2(group1, group2, conditions, ylbl, dim, markSz, 
        h1 = lillietest(group1);
        h2 = lillietest(group2);
        
+       % 4 comparisons 
+       
        if h1 == 1 || h2 == 1
            disp ('not normal')
-           [p h] = ranksum(group1,group2);
-             disp(h);
+           [h p] = ranksum(group1,group2);
+         pt(5) = p;
+        disp(h);
        else
         [h,p] = ttest2(group1,group2);
         pt(5) = p;

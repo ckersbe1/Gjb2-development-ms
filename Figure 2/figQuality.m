@@ -14,7 +14,7 @@ function figQuality(figh, axh, dim)
     for i=1:size(allAxesInFigure,1)
         axh = allAxesInFigure(i);
         axh.FontSize = 8;
-        plblsz = 10; %preferred label size
+        plblsz = 8; %preferred label size
         axh.LabelFontSizeMultiplier = plblsz / axh.FontSize;
         axh.FontName = 'Arial';
         axh.LineWidth = 1.5;
