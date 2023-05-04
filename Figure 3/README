@@ -1,0 +1,7 @@
+Figure 3
+Code to generate panels b, c, and d can be found in GJB2_haircells.mlx
+Code to generate panels e and f can be found in haircells_mrs2500.mlx
+Code to generate panels g - m can be found in IHCcorr.mlx
+All additional supporting functions required to run these two live scripts can be found in the Figure 3 folder
+
+Requests for raw data files should be made to corresponding author, Dwight Bergles, dbergles@jhmi.edu
