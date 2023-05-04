@@ -1,0 +1,10 @@
+Figure 2
+Code to generate panels b, d, and f can be found in Gjb2_inputR6K.mlx
+Code to generate panels c, e, and f can be found in plottingSpread.mlx
+Code to generate panels g and h can be found in Gjb2_supportcells6K.mlx
+Code to generate panels i, j, and k can be found in gridAnalysis2.mlx
+Code to generate panels l and m can be found in supportcells6K_mrs2500.mlx
+Code to generate panels n and o can be found in gridAnalysis2.mlx
+All additional supporting functions required to run these two live scripts can be found in the Figure 2 folder
+
+Requests for raw data files should be made to corresponding author, Dwight Bergles, dbergles@jhmi.edu
